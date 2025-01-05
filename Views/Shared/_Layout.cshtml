@@ -18,34 +18,27 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    @* @if (User.Identity.IsAuthenticated)
+                    @if (User.Identity.IsAuthenticated)
                     {
                         <li class="nav-item">
-                            <a class="nav-link" href="/Home">Home</a>
+                            <a class="nav-link" href="/Customers/Home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/Home/UpdateProfile">Update Profile</a>
+                            <a class="nav-link" href="/Customers/UpdateProfile">Update Profile</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/Account/Logout">Logout</a>
+                            <a class="nav-link" href="/Customers/Logout">Logout</a>
                         </li>
                     }
                     else
                     {
                         <li class="nav-item">
-                            <a class="nav-link" href="/Account/Login">Login</a>
+                            <a class="nav-link" href="/Customers/Login">Login</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/Account/Register">Register</a>
+                            <a class="nav-link" href="/Customers/Register">Register</a>
                         </li>
-                    } *@
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="/Customers/Login">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/Customers/Register">Register</a>
-                    </li>
+                    }
                 </ul>
             </div>
         </div>

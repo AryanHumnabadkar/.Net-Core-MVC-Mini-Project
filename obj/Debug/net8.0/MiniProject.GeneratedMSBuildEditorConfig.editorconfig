@@ -17,49 +17,53 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MiniProject
 build_property.RootNamespace = MiniProject
-build_property.ProjectDir = D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\WebSites\MiniProject\
+build_property.ProjectDir = D:\Programming\CDAC\8..NET\MiniProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\WebSites\MiniProject
+build_property.MSBuildProjectDirectory = D:\Programming\CDAC\8..NET\MiniProject
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/Customers/Home.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Customers/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEhvbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/Customers/login.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Customers/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXGxvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/Customers/Register.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Customers/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/Customers/UpdateProfile.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Customers/UpdateProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFVwZGF0ZVByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/Shared/Error.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/_ViewImports.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/_ViewStart.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/CDAC/8..NET/.NET-Core/WorkSpace/WebSites/MiniProject/Views/Shared/_Layout.cshtml]
+[D:/Programming/CDAC/8..NET/MiniProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2tmsayxko2

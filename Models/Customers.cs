@@ -18,9 +18,55 @@ namespace MiniProject.Models
         public string PhoneNo { get; set; }
         public string Gender { get; set; }
         public int CId { get; set; }
-
         public bool isRemember { get; set; }
 
+        public static List<SelectListItem> getAllCities()
+        {
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "Data Source=(localdb)\\ProjectModels;Initial Catalog=MiniProjectDB;Integrated Security=True;";
+            List<Cities> allCities = new List<Cities>();
+            List<SelectListItem> cityOptionsList = new List<SelectListItem>();
+            try
+            {
+                conn.Open();
+                Console.WriteLine("Connection Succesfull");
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
+                cmd.CommandType = System.Data.CommandType.Text;
+                cmd.CommandText = "select * from Cities";
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    Cities? objCity = new Cities()
+                    {
+                        CId = Convert.ToInt32(reader["Cid"]),
+                        CName = reader["Cname"].ToString()
+                    };
+                    allCities.Add(objCity);
+                }
+
+                foreach (Cities city in allCities)
+                {
+                    //string value = city.CId.ToString();
+                    //string? text = city.CName;
+                    //SelectListItem selectListItem = new SelectListItem(text, value);
+                    SelectListItem selectListItem = new SelectListItem(city.CName, city.CId.ToString());
+                    cityOptionsList.Add(selectListItem);
+                }
+                return cityOptionsList;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                cityOptionsList = null;
+                return cityOptionsList;
+            }
+            finally
+            {
+                conn.Close();
+                Console.WriteLine("Connection Closed");
+            }
+        }
 
         public static int RegisterCustomer(Customers objCust)
         {
@@ -159,6 +205,49 @@ namespace MiniProject.Models
             }
         }
 
+        public static List<Customers> GetAllCustomer()
+        {
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "Data Source=(localdb)\\ProjectModels;Initial Catalog=MiniProjectDB;Integrated Security=True;";
+            List<Customers>? allCustomers = new List<Customers>();
+            try
+            {
+                conn.Open();
+                Console.WriteLine("Connection Succesfull");
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
+                cmd.CommandType = System.Data.CommandType.Text;
+                cmd.CommandText = "select * from Customers";
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    Customers? objCust = new Customers()
+                    {
+                        CustId = Convert.ToInt32(reader["CustId"]),
+                        FullName = reader["FullName"].ToString(),
+                        UserName = reader["UserName"].ToString(),
+                        Password = reader["Password"].ToString(),
+                        EmailId = reader["EmailId"].ToString(),
+                        PhoneNo = reader["PhoneNo"].ToString(),
+                        Gender = reader["Gender"].ToString(),
+                        CId = Convert.ToInt32(reader["Cid"])
+                    };
+                    allCustomers.Add(objCust);
+                }
+                return allCustomers;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return allCustomers;
+            }
+            finally
+            {
+                conn.Close();
+                Console.WriteLine("Connection Closed");
+            }
+        }
+
         public static int UpdateCustomers(Customers objCust)
         {
             SqlConnection conn = new SqlConnection();
@@ -203,7 +292,6 @@ namespace MiniProject.Models
                 Console.WriteLine("Connection Closed");
             }
         }
-
 
     }
 }

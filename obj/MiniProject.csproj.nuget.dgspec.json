@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\MiniProject.csproj": {}
+    "D:\\Programming\\CDAC\\8..NET\\MiniProject\\MiniProject.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\MiniProject.csproj": {
+    "D:\\Programming\\CDAC\\8..NET\\MiniProject\\MiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\MiniProject.csproj",
+        "projectUniqueName": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\MiniProject.csproj",
         "projectName": "MiniProject",
-        "projectPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\MiniProject.csproj",
+        "projectPath": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\MiniProject.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\obj\\",
+        "outputPath": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

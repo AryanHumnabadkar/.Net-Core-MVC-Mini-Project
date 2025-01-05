@@ -1,115 +1,115 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\",
+  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\views\\customers\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\miniproject\\views\\customers\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\miniproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\views\\customers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\miniproject\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\views\\customers\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\miniproject\\views\\customers\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\miniproject\\views\\customers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateProfile.cshtml",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\UpdateProfile.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customers\\UpdateProfile.cshtml",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\UpdateProfile.cshtml",
-              "RelativeToolTip": "Views\\Customers\\UpdateProfile.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEwAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Views\\Customers\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\login.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Views\\Customers\\login.cshtml",
+              "RelativeToolTip": "Views\\Customers\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T13:38:18.317Z",
+              "WhenOpened": "2025-01-05T15:10:04.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Views\\Customers\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\UpdateProfile.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Views\\Customers\\UpdateProfile.cshtml",
+              "RelativeToolTip": "Views\\Customers\\UpdateProfile.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:11:44.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\Home.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customers\\Home.cshtml",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\Home.cshtml",
-              "RelativeToolTip": "Views\\Customers\\Home.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Views\\Customers\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Register.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Views\\Customers\\Register.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T13:38:15.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customers\\login.cshtml",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\login.cshtml",
-              "RelativeToolTip": "Views\\Customers\\login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T13:38:16.661Z",
+              "WhenOpened": "2025-01-05T11:13:11.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAADwv7UAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T13:38:09.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Customers.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Models\\Customers.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Models\\Customers.cs",
               "RelativeDocumentMoniker": "Models\\Customers.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Models\\Customers.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Models\\Customers.cs",
               "RelativeToolTip": "Models\\Customers.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA8wDoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T13:28:00.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T13:27:11.477Z",
               "EditorCaption": ""

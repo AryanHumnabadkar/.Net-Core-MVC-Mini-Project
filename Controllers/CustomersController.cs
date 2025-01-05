@@ -1,7 +1,10 @@
 ﻿using System.Text.Json;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using MiniProject.Models;
+using Newtonsoft.Json.Linq;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace MiniProject.Controllers
 {
@@ -87,6 +90,7 @@ namespace MiniProject.Controllers
                     Console.WriteLine("Inside If of ValidCust");
                     throw new Exception("Customer Not Found");
                 }
+                ViewBag.cityOptionList = Customers.getAllCities();
                 return View(validCust);
 
             }
@@ -128,6 +132,7 @@ namespace MiniProject.Controllers
         //GET: Customers/Register
         public ActionResult Register()
         {
+            ViewBag.cityOptionsList = Customers.getAllCities();
             return View();
         }
         //POST : Customers/Register
@@ -182,6 +187,14 @@ namespace MiniProject.Controllers
                 TempData["cookieStat"] = "No Cookie Existed";
             }
             return RedirectToAction("Home");
+        }
+
+
+        //------------- INdex Methods ---------------
+        public ActionResult Index()
+        {
+            List<Customers> allCustomers = Customers.GetAllCustomer();
+            return View(allCustomers);
         }
     }
 }

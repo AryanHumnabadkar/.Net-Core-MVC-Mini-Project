@@ -47,16 +47,22 @@
                 <input asp-for="PhoneNo" class="form-control" />
                 <span asp-validation-for="PhoneNo" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Gender" class="control-label"></label>
-                <input asp-for="Gender" class="form-control" />
-                <span asp-validation-for="Gender" class="text-danger"></span>
+            <div class=" form-group">
+                @Html.LabelFor(Model=>Model.Gender,"Gender",new {@class = "form-check-label"})<br />
+                @Html.RadioButtonFor(Model => Model.Gender, "Male",new {@id = "Male"})
+                @Html.Label("Male","Male",new {@class = "form-check-label"})
+                @Html.RadioButtonFor(Model => Model.Gender, "Female", new { @id = "Female" })
+                @Html.Label("Female", "Female", new { @class = "form-check-label" })
+                @Html.RadioButtonFor(Model => Model.Gender, "Others", new { @id = "Others" })
+                @Html.Label("Others", "Others", new { @class = "form-check-label" })
             </div>
-            <div class="form-group">
-                <label asp-for="CId" class="control-label"></label>
-                <input asp-for="CId" class="form-control" />
-                <span asp-validation-for="CId" class="text-danger"></span>
+
+            <div>
+                @Html.Label("CId", "Select List", new { @class = "form-check-label" })
+                @Html.DropDownListFor(Model => Model.CId, (List<SelectListItem>)ViewBag.cityOptionsList, "City", new { @class = "form-select" })
             </div>
+
+
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R4cxxSlEFaQ=",
+  "dgSpecHash": "sYfuJAxChnQ=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\MiniProject.csproj",
+  "projectFilePath": "D:\\Programming\\CDAC\\8..NET\\MiniProject\\MiniProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sarth\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sarth\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
