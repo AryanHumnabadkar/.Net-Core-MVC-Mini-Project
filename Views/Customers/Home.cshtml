@@ -1,0 +1,62 @@
+﻿    @model MiniProject.Models.Customers
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Home Page</h1>
+@{
+    if (TempData["Msg"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Msg"]
+        </div>
+    }
+}
+
+@{
+    var message = TempData["cookieStat"]?.ToString();
+}
+
+@if (!string.IsNullOrEmpty(message))
+{
+    @if (message == "No Cookie Existed")
+    {
+        <div class="alert alert-danger">
+            @message
+        </div>
+    }
+    @if (message == "Cookie Deleted")
+    {
+        <div class="alert alert-success">
+            @message
+        </div>
+    }
+}
+<hr />
+<h3>Welcome @Model.FullName</h3>
+<br />
+<br />
+<div>
+    <form asp-action="Logout" style="display:inline-block;">
+        <div class="form-group">
+            <button type="submit" value="Logout" class="btn btn-danger">Logout</button>
+        </div>
+    </form>
+
+    <form asp-action="UpdateProfile" asp-route-CustId ="@Model.CustId" method= "get" style="display:inline-block;">
+        <div class="form-group">
+            <button type="submit" value="Update Profile" class="btn btn-warning">Update Profile</button>
+        </div>
+    </form> 
+
+    <form asp-action="DeleteCookies" style="display:inline-block;">
+        <div class="form-group">
+            <button type="submit" value="Delete Cookies" class="btn btn-info">Delete Cookies</button>
+        </div>
+    </form>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>

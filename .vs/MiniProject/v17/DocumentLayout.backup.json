@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\views\\customers\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\views\\customers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\miniproject\\views\\customers\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85D2357-52E2-48FB-A2F0-A78B17494585}|MiniProject.csproj|solutionrelative:views\\customers\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\UpdateProfile.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\UpdateProfile.cshtml",
+              "RelativeToolTip": "Views\\Customers\\UpdateProfile.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:38:18.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Home.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\Home.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:38:15.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\login.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Views\\Customers\\login.cshtml",
+              "RelativeToolTip": "Views\\Customers\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:38:16.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAADwv7UAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:38:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Models\\Customers.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Models\\Customers.cs",
+              "RelativeToolTip": "Models\\Customers.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:28:00.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\MiniProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:27:11.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
